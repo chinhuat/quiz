@@ -3,9 +3,23 @@ Python + Docker Quiz
 
 **Goal:** Implement unsigned 16-bit and 32-bit data types in Python which satisfy test cases in `tests` directory, then build the smallest possible container to allow anyone to run the test cases. Please fork this repo on GitHub, then commit and push your changes to your own GitHub account for review.
 
+
+## Tips ##
+
+There is more than one way to accomplish this, so feel free to solve this whichever way you think is the recommended approach. A reference solution is accomplish with merely ~70-100 lines of code, so don't try too hard :-)
+
 **Note:** Don't use NumPy (http://www.numpy.org) as it would take away all the fun :-)
 
-**Tip:** Some basic Python concepts or software development practices that might be helpful: operator/method overloading, (python) 2 vs 3, modules or packages, object-oriented programming, test-driven development.
+Here are some basic Python concepts or software development practices that might be help:
+
+  * operator/method overloading
+  * (python) 2 vs 3
+  * modules or packages
+  * object-oriented programming
+  * test-driven development.
+
+
+## Expected Results ##
 
 The test cases should produce output messages that looks something like the following:
 
